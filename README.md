@@ -13,7 +13,7 @@ My project for the [Request Header Parser Microservice challenge](https://learn.
 ## Installation
 
 ```
-$ git clone temp
+$ git clone sagarsoni7/boilerplate-project-headerparser.git
 $ npm install
 $ npm start
 ```
